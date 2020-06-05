@@ -3,7 +3,7 @@ Serviço de comunicação com a api de pagamento da GetNet Santander
 
 ## Observação
 O projeto ainda está sendo melhorado. Falta ainda incluir callback de retorno com a getnet.
-Caso queria começar um projeto tirando esse como base aproveite.
+Caso queira começar um projeto tirando esse como base aproveite, fique a vontade ;).
 
 ### Tem mais
 Estou fazendo um app somente para estudo em angular para fazer o acompanhamento das transações.
